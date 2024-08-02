@@ -1,2 +1,2 @@
 # Stock_Predictor
-[Some title here](Stock_Predictor_PDF.pdf)
+[Stock_Predictor_Example](Stock_Predictor_Example.pdf)
