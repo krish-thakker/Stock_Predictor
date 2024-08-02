@@ -1,4 +1,4 @@
-# Stock_Predictor
+# Stock Predictor
 
 This stock predictor is in Python using the steamlit, yfinance, prophet, and plotly libraries.
 It uses an ML algorithm to train and test data, plotting predictions.
